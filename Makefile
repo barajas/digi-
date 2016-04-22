@@ -1,6 +1,6 @@
 CC = $(CROSS_COMPILE)g++
 
-OBJECTS = simple.o
+OBJECTS = double.o
 
 APP = mainapp
 
